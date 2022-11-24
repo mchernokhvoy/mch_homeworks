@@ -6,6 +6,6 @@ int a = int.Parse (Console.ReadLine());
 Console.Write("Введите число b: ");
 int b = int.Parse (Console.ReadLine());
 if (a < b)
-Console.Write("max = a, min = b");
+Console.Write("min = a, max = b");
 else
-Console.Write("max = b, min = a");
+Console.Write("min = b, max = a");
