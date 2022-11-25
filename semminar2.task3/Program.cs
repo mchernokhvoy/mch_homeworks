@@ -1,6 +1,5 @@
 ﻿// HOMEWORK 2.3
 
-
 Console.Clear();
 Console.Write("Введите число a в диапозоне от 1 до 7, обозначающее день недели: ");
 int a = int.Parse(Console.ReadLine());
