@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 3.2
 
+
 Console.Clear();
 Console.Write("Введите координату точки А: ");
 double xa = Convert.ToDouble (Console.ReadLine ());
