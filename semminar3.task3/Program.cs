@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 3.3
 
+
 Console.Clear();
 Console.Write("Введите пятизначное число N: ");
 int N = int.Parse (Console.ReadLine());
