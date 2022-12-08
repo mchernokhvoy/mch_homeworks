@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 4.3
 
+
 Console.Clear();
 Console.Write("Введите числа: ");
 int n1 = int.Parse(Console.ReadLine());
