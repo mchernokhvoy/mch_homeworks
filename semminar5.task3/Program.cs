@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 5.3
 
+
 void InputArray(double[] array)
 {
 for (int i = 0; i < array.Length; i++)
