@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 5.2
 
+
 Console.Clear();
 Console.Write("Введите значение K1: ");
 double K1 = Convert.ToDouble (Console.ReadLine());
