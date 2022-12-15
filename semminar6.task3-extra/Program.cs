@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 6.extra
 
+
 Console.Clear();
 Console.Write("Введите координату высоты A: ");
 double x1 = Convert.ToDouble (Console.ReadLine ());
