@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 7.2
 
+
 Console.Clear();
 Console.Write("Введите позицию элемента в массиве: ");
 int x = int.Parse(Console.ReadLine());
