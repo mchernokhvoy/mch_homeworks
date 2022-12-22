@@ -5,7 +5,7 @@ Console.Clear();
 Console.Write("Введите позицию элемента в массиве: ");
 int x = int.Parse(Console.ReadLine());
 int y = int.Parse(Console.ReadLine());
-int[,] matrix = new int[6, 6];
+int[,] matrix = new int[3, 6];
 InputMatrix(matrix);
 
 void InputMatrix(int[,] matrix)
