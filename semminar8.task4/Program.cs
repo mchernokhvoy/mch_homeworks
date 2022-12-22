@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 8.4
 
+
 void InputMatrix(int[,,] matrix)
 {
     int num = 10;
