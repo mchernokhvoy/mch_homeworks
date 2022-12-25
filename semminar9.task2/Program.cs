@@ -1,5 +1,6 @@
 ﻿// HOMEWORK 9.2
 
+
 int akkerman(int n, int m)
 {
     if (n == 0)
